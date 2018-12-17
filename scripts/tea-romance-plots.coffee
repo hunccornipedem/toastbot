@@ -85,6 +85,7 @@ module.exports = (robot) ->
       'an international jewel thief in disguise as a Belgian nun',
       'a kindhearted country veterinarian',
       'a pirate who sets their beard on fire to intimidate their foes'
+      'a parrot-shifter kicked out of the National Animal Welfare Trust sanctuary for swearing too much'
     ]
 
     romanceScenario = [
